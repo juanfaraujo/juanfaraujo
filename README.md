@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://mechanical-moccasin-y7eyllhh.edgeone.dev" alt="Banner" width="100%" />
+<img src="https://mechanical-moccasin-y7eyllhh.edgeone.dev/" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Cyber Security
